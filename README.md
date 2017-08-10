@@ -56,7 +56,7 @@ Controller:
 
 #### Utility Bar
 
-![Utility Bar] (https://developer.salesforce.com/docs/resources/img/en-us/208.0?doc_id=dev_guides%2Fapi_console%2Fimages%2Fapi_console_utility_bar.png&folder=api_console)
+![Utility Bar](https://developer.salesforce.com/docs/resources/img/en-us/208.0?doc_id=dev_guides%2Fapi_console%2Fimages%2Fapi_console_utility_bar.png&folder=api_console)
 
 
 1. The utility bar
