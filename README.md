@@ -106,7 +106,7 @@ What is **flexipage:availableForAllPageTypes**?
 
 If your component implements **flexipage:availableForAllPageTypes**  it can be accessed in the Lightning **App Builder**.
 
-
+------
 
 
 #### Event Driven Framework
