@@ -10,7 +10,7 @@ To select objects, use the **item menu** in the navigation bar (1). Records sele
 In this example, there are two **workspace** tabs open:
 
 1. **Acme** 
-2.  **Global Media**
+2. **Global Media**
 
 Under the **Global Media workspace tab**, there are three **subtabs** open:
 
@@ -24,8 +24,8 @@ In the History utility, you can easily access your recently opened records.
 
 #### APIs
 
-1. force:workspaceAPIAccess,  this component gives access to Workspace API
-2. force:utilityBarAPIAccess, this component gives access to utility bar API
+1. **force:workspaceAPIAccess** :  this component gives access to Workspace API
+2. **force:utilityBarAPIAccess** : this component gives access to utility bar API
 
 ##### How to get access these APIs:
 
