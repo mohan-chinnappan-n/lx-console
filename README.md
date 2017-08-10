@@ -34,12 +34,12 @@ Component using both the libs:
 ```xml
 <aura:component implements="flexipage:availableForAllPageTypes" access="global"> 
 
-<!-- APIs -->
-<force:workspaceAPIAccess aura:id="workspace" /> 
-<force:utilityBarAPIAccess aura:id="utilitybar" />
-
-<lightning:button label="Open Utility" onclick="{! c.openUtilityBar }"/> 
-<lightning:button label="Open Tab" onclick="{! c.openTab }" />
+	<!-- APIs -->
+	<force:workspaceAPIAccess aura:id="workspace" /> 
+	<force:utilityBarAPIAccess aura:id="utilitybar" />
+	
+	<lightning:button label="Open Utility" onclick="{! c.openUtilityBar }"/> 
+	<lightning:button label="Open Tab" onclick="{! c.openTab }" />
 
  </aura:component>
 ```
