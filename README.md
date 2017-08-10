@@ -69,7 +69,7 @@ Controller:
 
 -  single-column Lightning page
 -  has ready-to-use utilities, such as Recent Items, History, and Notes
--  utility bar API (force:utilityBarAPIAccess) has 10 methods 
+-  utility bar API (**force:utilityBarAPIAccess**) has 10 methods 
 
 
 ##### Example: API : openUtility()
