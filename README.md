@@ -1,4 +1,4 @@
-### Notes on Salesforce Ligtning Console JavaScript API
+### Notes on Salesforce Lightning Console JavaScript API
 
 #### Lightning Console App User Interface
 
