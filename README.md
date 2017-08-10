@@ -29,7 +29,7 @@ In the History utility, you can easily access your recently opened records.
 
 ##### How to get access these APIs:
 
-Component using both the libs 
+Component using both the libs:
 
 ```xml
 <aura:component implements="flexipage:availableForAllPageTypes" access="global"> 
